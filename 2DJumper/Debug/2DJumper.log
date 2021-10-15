@@ -1,0 +1,7 @@
+﻿  2DJumper.cpp
+  GameObject.cpp
+  Platform.cpp
+  Player.cpp
+  Generating Code...
+D:\Projects\CPP\2DJumper\2DJumper\GameObject.cpp(73): warning C4715: 'GameObject::typeToChar': not all control paths return a value
+  2DJumper.vcxproj -> D:\Projects\CPP\2DJumper\Debug\2DJumper.exe
